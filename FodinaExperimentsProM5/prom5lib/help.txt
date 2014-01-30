@@ -1,0 +1,14 @@
+These are the libs you need to place in this folder.
+
+Providing them as is would lead to too many licensing issues. So users are instructed to download these for themselves.
+
+06.11.13  16:10            33.951 AlphaPPProcessMiner.jar
+06.11.13  11:00           125.262 att.jar
+06.11.13  11:00            90.519 GantzGraf-0.9.jar
+06.11.13  11:00             6.528 java_cup.jar
+06.11.13  11:00            88.712 MXMLib.jar
+06.11.13  11:00           797.289 ProM.jar
+06.11.13  09:27           682.350 ProMmodels.jar
+04.11.13  19:10         3.812.251 ProMplugins.jar
+06.11.13  11:00           165.359 slickerbox0.5.jar
+06.11.13  16:10            11.098 TsinghuaAlphaProcessMiner.jar

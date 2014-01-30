@@ -1,0 +1,5 @@
+These are the libs you need to place in this folder.
+
+Providing them as is would lead to too many licensing issues. So users are instructed to download these for themselves.
+
+04.11.13  19:54            14.148 opencsv-2.3.jar

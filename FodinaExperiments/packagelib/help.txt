@@ -1,0 +1,8 @@
+These are the libs you need to place in this folder.
+
+Providing them as is would lead to too many licensing issues. So users are instructed to download these for themselves.
+
+06.11.13  17:03         1.231.519 Flex.jar
+06.11.13  17:05         1.362.086 FlexReplayer.jar
+06.11.13  16:37         1.148.982 HeuristicsMiner.jar
+04.11.13  19:48         2.410.227 PetriNets.jar

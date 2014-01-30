@@ -1,0 +1,7 @@
+These are the libs you need to place in this folder.
+
+Providing them as is would lead to too many licensing issues. So users are instructed to download these for themselves.
+
+06.11.13  10:48            83.852 kutoolbox-20131106.jar
+11.11.13  21:22           123.301 neconformance-20131111.jar
+04.11.13  19:48         2.410.227 PetriNets.jar

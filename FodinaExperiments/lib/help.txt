@@ -1,0 +1,14 @@
+These are the libs you need to place in this folder.
+
+Providing them as is would lead to too many licensing issues. So users are instructed to download these for themselves.
+
+06.11.13  11:00           125.262 att.jar
+06.11.13  11:00            90.519 GantzGraf-0.9.jar
+17.12.13  10:52            88.712 MXMLib.jar
+04.11.13  19:54            14.148 opencsv-2.3.jar
+17.12.13  10:50            38.636 PLGLib.jar
+17.12.13  11:05           229.068 ProcessLogGenerator.jar
+17.12.13  11:07           797.289 ProM.jar
+17.12.13  11:06           682.350 ProMmodels.jar
+17.12.13  11:07         3.812.251 ProMplugins.jar
+
